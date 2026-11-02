@@ -1,0 +1,7 @@
+TLB Lookup Time: 10 ns
+Memory Access Time: 80 ns
+TLB Hit Ratio: 0.9
+EAT for hit ratio 0.90: 98.0 ns
+TLB Hit Ratio: 0.75
+EAT for hit ratio 0.75: 110.0 ns
+Hit ratio 0.90 gives better performance
