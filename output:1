@@ -1,0 +1,13 @@
+Block	Status	Cache		Removed
+4	MISS	[4]	-
+2	MISS	[4, 2]	-
+1	MISS	[4, 2, 1]	-
+4	HIT	[2, 1, 4]	-
+3	MISS	[1, 4, 3]	2
+2	MISS	[4, 3, 2]	1
+5	MISS	[3, 2, 5]	4
+4	MISS	[2, 5, 4]	3
+
+Total Hits: 1
+Total Misses: 7
+Hit Ratio: 0.12
